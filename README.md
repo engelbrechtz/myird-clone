@@ -1,2 +1,2 @@
 # myird-website-clone
-myird working in reactjs
+myird working in reactjs using supabase 
